@@ -51,6 +51,14 @@ export const pagesConfig = {
       description: "Olamide Lasisi's resume.",
     },
   },
+  contributions: {
+    title: "contributions",
+    description: "Olamide Lasisi's resume.",
+    metadata: {
+      title: "contributions",
+      description: "Olamide Lasisi's resume.",
+    },
+  },
 };
 
 // Update the type definition if it exists
