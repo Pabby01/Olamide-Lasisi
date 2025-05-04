@@ -5,14 +5,14 @@ export const siteConfig = {
   authorName: "Olamide Lasisi",
   username: "Olamhero",
   description:
-    "Olamide Lasisi is a Full Stack Developer, who loves to build web applications and is passionate about learning new technologies.",
-  url: "https://nbarkiya.xyz",
+    "Olamide Lasisi is a Versatile law graduate who loves God and justice .",
+  url: "https://olamide-lasisi.vercel.app",
   links: {
     twitter: "https://x.com/namanbarkiya",
     github: "https://github.com/namanbarkiya",
     linkedin: "https://www.linkedin.com/in/olamidelasisi/",
   },
-  ogImage: "https://nbarkiya.xyz/naman-img.jpg",
+  ogImage: "https://i.postimg.cc/0QLmq14W/olamihero.jpg",
   iconIco:
     "https://res.cloudinary.com/dbfvcn3f6/image/upload/v1692357384/assets/naman-favicon.ico",
   logoIcon:
