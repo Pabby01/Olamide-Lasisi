@@ -16,9 +16,9 @@ export const SocialLinks: SocialInterface[] = [
   },
   {
     name: "LinkedIn",
-    username: "Naman Barkiya",
+    username: "Olamide Lasisi",
     icon: Icons.linkedin,
-    link: "https://www.linkedin.com/in/namanbarkiya",
+    link: "https://www.linkedin.com/in/olamidelasisi/",
   },
   {
     name: "Twitter",
@@ -28,8 +28,8 @@ export const SocialLinks: SocialInterface[] = [
   },
   {
     name: "Gmail",
-    username: "naman.barkiya02",
+    username: "Olamide Lasisi",
     icon: Icons.gmail,
-    link: "mailto:naman.barkiya02@gmail.com",
+    link: "mailto:olamihero@gmail.com",
   },
 ];

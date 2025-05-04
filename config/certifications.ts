@@ -16,7 +16,7 @@ export const Certifications: CertificationInterface[] = [
     date: new Date("2024-05-01"),
     description: "Youth Leading the Digital Transformation",
     certificateLink: "https://linkedin.com/certificates/world-bank-youth-summit", // Update with actual link
-    certificateImage: "/certificates/world-bank.png"
+    certificateImage: "/experience/law/world-bank.png"
   },
   {
     id: "jessup-moot",
@@ -24,7 +24,7 @@ export const Certifications: CertificationInterface[] = [
     issuer: "Philip C. Jessup International Law Moot Court Competition",
     date: new Date("2024-04-01"),
     certificateLink: "https://drive.google.com/file/jessup-certificate", // Update with actual link
-    certificateImage: "/certificates/jessup.png"
+    certificateImage: "/experience/law/jesup.jpg"
   },
   {
     id: "research-design",
@@ -56,7 +56,7 @@ export const Certifications: CertificationInterface[] = [
     issuer: "Jobberman",
     date: new Date("2021-11-01"),
     certificateLink: "https://drive.google.com/file/jobberman", // Update with actual link
-    certificateImage: "/certificates/jobberman.png"
+    certificateImage: "/experience/law/jobberman.jpg"
   },
   {
     id: "wipo-ip",
@@ -64,7 +64,7 @@ export const Certifications: CertificationInterface[] = [
     issuer: "World Intellectual Property Organization (WIPO)",
     date: new Date("2020-09-01"),
     certificateLink: "https://drive.google.com/file/wipo-ip", // Update with actual link
-    certificateImage: "/certificates/wipo-ip.png"
+    certificateImage: "/experience/law/intelect.jpg"
   },
   {
     id: "wipo-patent",
@@ -72,7 +72,7 @@ export const Certifications: CertificationInterface[] = [
     issuer: "World Intellectual Property Organization (WIPO)",
     date: new Date("2020-10-01"),
     certificateLink: "https://drive.google.com/file/wipo-patent", // Update with actual link
-    certificateImage: "/certificates/wipo-patent.png"
+    certificateImage: "/experience/law/patent.jpg"
   },
   {
     id: "google-digital",

@@ -30,14 +30,20 @@ export default function ContactPage() {
               <div className="space-y-4">
                 <div className="flex items-center space-x-3">
                   <Icons.gmail className="h-5 w-5 text-muted-foreground" />
-                  <Link href="mailto:contact@olamidelasisi.com" className="hover:underline">
-                    contact@olamidelasisi.com
+                  <Link href="mailto:olamihero@gmail.com" className="hover:underline">
+                  olamihero@gmail.com
+                  </Link>
+                </div>
+                <div className="flex items-center space-x-3">
+                  <Icons.gmail className="h-5 w-5 text-muted-foreground" />
+                  <Link href="mailto:lasisiolamide.h@outlook.com" className="hover:underline">
+                  lasisiolamide.h@outlook.com
                   </Link>
                 </div>
                 <div className="flex items-center space-x-3">
                   <Icons.contact className="h-5 w-5 text-muted-foreground" />
-                  <Link href="tel:+2348012345678" className="hover:underline">
-                    +234 801 234 5678
+                  <Link href="tel:+2348160408614" className="hover:underline">
+                    +234 816 040 8614
                   </Link>
                 </div>
                 <div className="flex items-center space-x-3">
