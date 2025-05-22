@@ -8,8 +8,8 @@ export const siteConfig = {
     "Olamide Lasisi is a Versatile law graduate who loves God and justice .",
   url: "https://olamide-lasisi.vercel.app",
   links: {
-    twitter: "https://x.com/namanbarkiya",
-    github: "https://github.com/namanbarkiya",
+    twitter: "https://x.com/olamidelasisi",
+    github: "https://github.com/olamihero",
     linkedin: "https://www.linkedin.com/in/olamidelasisi/",
   },
   ogImage: "https://i.postimg.cc/0QLmq14W/olamihero.jpg",
