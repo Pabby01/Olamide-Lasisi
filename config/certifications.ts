@@ -32,7 +32,7 @@ export const Certifications: CertificationInterface[] = [
     issuer: "Collaborative Institutional Training Initiative",
     date: new Date("2024-04-01"),
     certificateLink: "https://drive.google.com/file/research-design", // Update with actual link
-    certificateImage: "/certificates/citi-research.png"
+    certificateImage: "/experience/law/resec.png"
   },
   {
     id: "health-research-ethics",
@@ -40,7 +40,7 @@ export const Certifications: CertificationInterface[] = [
     issuer: "Collaborative Institutional Training Initiative",
     date: new Date("2023-09-01"),
     certificateLink: "https://drive.google.com/file/health-ethics", // Update with actual link
-    certificateImage: "/certificates/health-ethics.png"
+    certificateImage: "/experience/law/nat.png"
   },
   {
     id: "swift-energy",
@@ -80,7 +80,7 @@ export const Certifications: CertificationInterface[] = [
     issuer: "Google",
     date: new Date("2020-08-01"),
     certificateLink: "https://drive.google.com/file/google-digital", // Update with actual link
-    certificateImage: "/certificates/google-digital.png"
+    certificateImage: "/experience/law/fund.png"
   },
   {
     id: "freedom-expression",
@@ -88,7 +88,7 @@ export const Certifications: CertificationInterface[] = [
     issuer: "Council of Europe HELP Programme",
     date: new Date("2020-07-01"),
     certificateLink: "https://drive.google.com/file/freedom-expression", // Update with actual link
-    certificateImage: "/certificates/freedom-expression.png"
+    certificateImage: "/experience/law/help.png"
   },
   {
     id: "financial-globalisation",
@@ -96,7 +96,7 @@ export const Certifications: CertificationInterface[] = [
     issuer: "Asian Development Bank Institute",
     date: new Date("2020-06-01"),
     certificateLink: "https://drive.google.com/file/financial-global", // Update with actual link
-    certificateImage: "/certificates/financial-global.png"
+    certificateImage: "/experience/law/flow.png"
   },
   {
     id: "commercial-mediation",
@@ -104,7 +104,7 @@ export const Certifications: CertificationInterface[] = [
     issuer: "Professional Development",
     date: new Date("2020-06-01"),
     certificateLink: "https://drive.google.com/file/mediation", // Update with actual link
-    certificateImage: "/certificates/mediation.png"
+    certificateImage: "/experience/law/medi.png"
   }
 ];
 
