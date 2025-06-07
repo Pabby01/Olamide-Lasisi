@@ -38,7 +38,7 @@ export const Experiences: ExperienceInterface[] = [
     shortDescription: "Led the University of Ibadan team to the finals, emerging as semi-final winners.",
     startDate: new Date("2024-11-01"),
     endDate: new Date("2024-11-30"),
-    companyLogoImg: "/experience/cfa/logo.png",
+    companyLogoImg: "/experience/law/cfa.jpg",
     descriptionDetails: {
       paragraphs: [
         "Led the University of Ibadan team in the prestigious CFA Universities Ethics Challenge, demonstrating exceptional leadership and ethical analysis capabilities.",
@@ -88,7 +88,7 @@ export const Experiences: ExperienceInterface[] = [
     shortDescription: "Served as rapporteur for multiple NBA events, documenting key legal discussions and outcomes.",
     startDate: new Date("2024-06-01"),
     endDate: new Date("2025-04-30"),
-    companyLogoImg: "/experience/nba/logo.png",
+    companyLogoImg: "/experience/law/rap.jpg",
     descriptionDetails: {
       paragraphs: [
         "Served as the official rapporteur for multiple high-profile NBA events, including the branch's law week and Young Lawyers' Forum Summit.",
@@ -144,7 +144,7 @@ export const Experiences: ExperienceInterface[] = [
     shortDescription: "Presented on technology's impact on legal aid and dispute resolution services.",
     startDate: new Date("2024-08-01"),
     endDate: new Date("2024-08-31"),
-    companyLogoImg: "/experience/legal-edu/logo.png",
+    companyLogoImg: "/experience/law/ben.jpg",
     descriptionDetails: {
       paragraphs: [
         "Participated in international collaboration between Bennett University (India) and University of Ibadan (Nigeria).",
@@ -170,7 +170,7 @@ export const Experiences: ExperienceInterface[] = [
     shortDescription: "Represented at the World Bank Group Youth Summit in Washington, DC.",
     startDate: new Date("2024-05-01"),
     endDate: new Date("2024-05-31"),
-    companyLogoImg: "/experience/worldbank/logo.png",
+    companyLogoImg: "/experience/law/wod.png",
     descriptionDetails: {
       paragraphs: [
         "Participated as a delegate in the prestigious World Bank Group Youth Summit in Washington, DC.",
@@ -195,7 +195,7 @@ export const Experiences: ExperienceInterface[] = [
     shortDescription: "Led team to semifinals in national rounds, demonstrating exceptional advocacy skills.",
     startDate: new Date("2024-04-01"),
     endDate: new Date("2024-04-30"),
-    companyLogoImg: "/experience/jessup/logo.png",
+    companyLogoImg: "/experience/law/moot.png",
     descriptionDetails: {
       paragraphs: [
         "Led a team of four oralists to the semifinals in the national rounds of the world's largest moot court competition.",
