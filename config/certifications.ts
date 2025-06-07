@@ -48,7 +48,7 @@ export const Certifications: CertificationInterface[] = [
     issuer: "Swift Energy",
     date: new Date("2023-09-01"),
     certificateLink: "https://linkedin.com/certificates/swift-energy", // Update with actual link
-    certificateImage: "/certificates/swift-energy.png"
+    certificateImage:"/experience/law/swift.png"
   },
   {
     id: "jobberman-soft-skills",
